@@ -10,5 +10,6 @@ Weather forecast assignement
 7. Access getforecast API from weather-controller and provide latitude and logitude. It returns the next 5 days weather response in JSON format.
 or
 8. Access the URL in below browser and provide latitude and longitude . It returns the next 5 days weather response in JSON format.
+http://localhost:8080/getforecast/latitude/40.7456/longitude/-97.0892
 
 Note: Source code pushed to git repo
